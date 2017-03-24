@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+}
+header{
+	margin: 0;
+	text-align: right;
+	font-family: "Century Gothic", Times, serif;
+	font-size: 100%;
+}
+#qotd{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #c9c9c9;
+}
+nav{
+	padding: 5px;
+	border-bottom: 1px solid;
+	margin-top: 5px;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	margin-left: 10px;
+}
+nav a:hover{
+	color: grey;
+}
+.title{
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align: center;
+	font-family: "Century Gothic", Times, serif;
+	font-size: 100%;
+}
+h1{
+	color: #a00000;
+}
+.category{
+	opacity: 1;
+	background-color: grey;
+	width: 3vw;
+	height: 50px;
+}
